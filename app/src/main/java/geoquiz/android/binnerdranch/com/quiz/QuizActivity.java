@@ -7,6 +7,10 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/*
+* 我在这里写注释，然后提交到GitHub查看*
+* */
+
 public class QuizActivity extends AppCompatActivity {
 
     private Button mTrueButton;
